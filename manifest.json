@@ -1,13 +1,18 @@
 {
-  "mainSha": "8f58bd03690edc2be0f42daeed4f948e867d9858",
-  "builtAt": 1791140452796,
+  "mainSha": "8f6488eacbfaf60e1102030e3628afce88bd3195",
+  "builtAt": 1791144644259,
   "minShell": 1,
   "files": {
-    "build/index.cjs": "8faf887139f94b58db711773c6595b2c67bd0624062d54b2c5c61383604a38d1",
-    "build/preload.cjs": "b6b2376f70a6b884dff1461b84b31dbed6c5061478f25e7f96071bbc2d8bf26f",
-    "renderer/main_window/index.html": "839b3ac6a46aff2eb743b7d29ffa934d23c0533f0b6e7bfc0fe5e43d4161a3fa",
-    "renderer/main_window/assets/index-B5pDRQxh.css": "f1fab20f004f04975bcf0cd28d290ddce323093c9b0559928d6e71e3c8f5adef",
-    "renderer/main_window/assets/index-CCr9fl6q.js": "21d7c586a73dc7bcb699ebdca79bbe97b16148ffe96311cd51234b9f222ab5c8",
-    "renderer/main_window/assets/pcmSource.worklet-C6C9r5xa.js": "de8d291a6a178d4ca4d11b84cc3284fef0aa24af989ddd24f94b355c22e5f179"
+    "build/index.cjs": "f15586d54429845b7fe335b8d65e56e6a26d6b593a9964fa50f9d6c9085ae785",
+    "build/preload.cjs": "5915d541d65094e04d40fcd1957e9462b4bda2d8266245060687abf417851cc6",
+    "renderer/main_window/apple-touch-icon.png": "b97aa20b6ebc15fb799689cb4c95fb1e73bd49e40c143e9e8dccc6115653991a",
+    "renderer/main_window/index.html": "832a047d2c9827314e27378f2956ea4775c87ede64a758ad08fee16b3d178eee",
+    "renderer/main_window/phone.html": "2bc4f917e3c0518a0c467f3efe882149b3d4bc5335d169a40b945a775d74b60f",
+    "renderer/main_window/assets/main-CVUU9-6r.js": "289e08a09f6ed0b779eb3974afa9a1a168015634c4fd5b81b45580cee0dccbfd",
+    "renderer/main_window/assets/pcmSource.worklet-C6C9r5xa.js": "de8d291a6a178d4ca4d11b84cc3284fef0aa24af989ddd24f94b355c22e5f179",
+    "renderer/main_window/assets/phone-D2JHHkrH.js": "4dc08f39a2bbe7ac0beb1f817b768e5ca8494c6bfc3aed64635681fe7f90c50e",
+    "renderer/main_window/assets/phone-woZ3-R5I.css": "5e4a6e7034527b2b853eb3ef3066f1afd4e9eb4fc499c4962ea3f6e7afbba9de",
+    "renderer/main_window/assets/tile-CtBm3PEL.css": "e224b0dca663b0da010c7bc7fc77123af5bea2efaa36fad6cd739801fe1acb01",
+    "renderer/main_window/assets/tile-mWg0-69G.js": "0da19aba0d6cd753ea3a385aed07c5231602f695855aac34353e84fc46f3b3a6"
   }
 }
