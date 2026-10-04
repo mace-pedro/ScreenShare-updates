@@ -1,0 +1,13 @@
+{
+  "mainSha": "33f28b6fc498141593afe14cd48d3fbc2500f413",
+  "builtAt": 1791137047088,
+  "minShell": 1,
+  "files": {
+    "build/index.cjs": "a634cab080db9ff7f1894ee02223ed45a232c6d480d8dfc6cad1020d4fb698f9",
+    "build/preload.cjs": "4269cb4f19fd29f27027439b0604dbe5aafc88f0b6f8997c70e985ad0184fdda",
+    "renderer/main_window/index.html": "afd90acd8055e577498eee6db19a5a296776cfac1e1fc210cb2c5c25d3b5dcde",
+    "renderer/main_window/assets/index-DtIcFNmZ.css": "022a05e068ddd1cdf05a3d70e3aa73c0e2fc28d3c45252cb51f183db6ca60270",
+    "renderer/main_window/assets/index-pVtG5wQO.js": "14adbe6280817d46a25e74c12c4f5e5ed81d985fcefb6237efd3a50e7250fc84",
+    "renderer/main_window/assets/pcmSource.worklet-C6C9r5xa.js": "de8d291a6a178d4ca4d11b84cc3284fef0aa24af989ddd24f94b355c22e5f179"
+  }
+}
