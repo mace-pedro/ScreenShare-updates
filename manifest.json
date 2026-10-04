@@ -1,13 +1,13 @@
 {
-  "mainSha": "390cc7f6d66ff97089dd545ccd7514f5656cdc8d",
-  "builtAt": 1791138485265,
+  "mainSha": "8f58bd03690edc2be0f42daeed4f948e867d9858",
+  "builtAt": 1791140452796,
   "minShell": 1,
   "files": {
     "build/index.cjs": "8faf887139f94b58db711773c6595b2c67bd0624062d54b2c5c61383604a38d1",
     "build/preload.cjs": "b6b2376f70a6b884dff1461b84b31dbed6c5061478f25e7f96071bbc2d8bf26f",
-    "renderer/main_window/index.html": "244d2a6ab6360ceefa420a638a12feb13bc22f245d7af119642477e7b8a7c15f",
-    "renderer/main_window/assets/index-CEtDXPFU.css": "0dea7a3a6f4dbd29ea6edbbe14aef5bed5fdbc5692df18a0a282339cd6c9ff7b",
-    "renderer/main_window/assets/index-DM6X6SAo.js": "e0af7a0572db869e08d383ae3815b620b9679bda59f7a043d5b5bb60225f50d3",
+    "renderer/main_window/index.html": "839b3ac6a46aff2eb743b7d29ffa934d23c0533f0b6e7bfc0fe5e43d4161a3fa",
+    "renderer/main_window/assets/index-B5pDRQxh.css": "f1fab20f004f04975bcf0cd28d290ddce323093c9b0559928d6e71e3c8f5adef",
+    "renderer/main_window/assets/index-CCr9fl6q.js": "21d7c586a73dc7bcb699ebdca79bbe97b16148ffe96311cd51234b9f222ab5c8",
     "renderer/main_window/assets/pcmSource.worklet-C6C9r5xa.js": "de8d291a6a178d4ca4d11b84cc3284fef0aa24af989ddd24f94b355c22e5f179"
   }
 }
