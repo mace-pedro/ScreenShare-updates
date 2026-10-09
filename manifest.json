@@ -1,22 +1,23 @@
 {
-  "mainSha": "4a66442b0b8bd0935894f146abe0ecbbfbdaabea",
-  "builtAt": 1791515010784,
+  "mainSha": "ecb16b6af13734112ea7a9d2c015decbddb77866",
+  "builtAt": 1791586474758,
   "minShell": 1,
   "files": {
-    "build/index.cjs": "9f672d6009a2d76323a9a19e358a6d68034d2816079fdd87553f17e8250dc974",
-    "build/preload.cjs": "8395a100668c4e2c60e41c78207e5c41ca76c6250753e0b37fc81a18fa82bed0",
+    "build/index.cjs": "3432cdd0ff944aa71f2a339e0ab0a248ba321421792ac3267fd942bba87da7a7",
+    "build/preload.cjs": "45daee6de08bfdb01977a5e1388da1811e19b66ef43857ab875b3dee07542aa1",
     "renderer/main_window/apple-touch-icon.png": "b97aa20b6ebc15fb799689cb4c95fb1e73bd49e40c143e9e8dccc6115653991a",
-    "renderer/main_window/index.html": "04362e3b9f03ee09f1295b7e3b98feca9d49bc160b98f762c3f529857dfab262",
-    "renderer/main_window/phone.html": "247d12712b3996c29e1c17e030ca7cb5e4db0474fdd5bb7a5368152b7cbc6cd2",
-    "renderer/main_window/assets/enroll-tBYnpCGr.js": "368004a8ce345e656df9abfad58b9c658558598bbc8533b08774954434a3995a",
-    "renderer/main_window/assets/main-DjEfGcxt.js": "f47cdba170df732963d3bed139aa29958ab1ab6ae39ad6c738e63bf0b7ea8148",
-    "renderer/main_window/assets/nativeLink-Souc2Gp4.js": "bb31674d68040566834bd8ef7a0f4d96f8e33dbdc0e71441a9cddd64d8866836",
+    "renderer/main_window/index.html": "cbf4fe3b4eaa0f3f9491490da9c79741e7c149cbe52302c53aa06bdd58304a30",
+    "renderer/main_window/phone.html": "29e3c64087baf89458ce714c0c454c06419e94e8e822e60dd46c3cb48c785fad",
+    "renderer/main_window/assets/enroll-JWxdSyZJ.js": "513199c57bcf0d0778371ac0471cd571ee24435b35c2c3121f4080a9ac3dad7f",
+    "renderer/main_window/assets/introductions-DuSh4eFR.js": "068384b2dbf86d176f5abf1b44df801fa7fcf56c94390fd1838a08add3d02b1f",
+    "renderer/main_window/assets/main-ZH9z4JHQ.js": "3909be009eaab8274e800bd84758d3010d74774a032ed6c1bd5c4264a7e1e459",
+    "renderer/main_window/assets/nativeLink-DPJPKUye.js": "6e3970d8f205230f9bc72d6ba8ca600e8f5cbe56d1a90104a2697a07225bddfa",
     "renderer/main_window/assets/pcmSource.worklet-C6C9r5xa.js": "de8d291a6a178d4ca4d11b84cc3284fef0aa24af989ddd24f94b355c22e5f179",
-    "renderer/main_window/assets/phone-DKvRcbzN.js": "c925f20432b73e0cd29188c3b62825ccf2ab20d8b3e40bc3c6f07c6524db8887",
+    "renderer/main_window/assets/phone-CUnaSm76.js": "7d86a49373afa142e71365cbcbeddc34372f79e39f57cdd1dc555726313d30ba",
     "renderer/main_window/assets/phone-Vp-akNRY.css": "2b88dd5d07be1efa7c51ec215a8ba725d7ef1f196f51909601c5b5a5a002908e",
-    "renderer/main_window/assets/roomPicker-BOyZKkJ5.js": "d7c3113d3ac82342630e95acc83668c628503813c5547fcb95474fef5c8d2f63",
-    "renderer/main_window/assets/roomRole-3my9HWRR.js": "048c4df89f5237d7e6e8a8e36db12a356132b47ea3a618c9939185706f1ff2f9",
-    "renderer/main_window/assets/tile-Bq6nTq0b.css": "bc5cb8abd9732d5df871876ab91a2237dc8d1ced8202e258efa24ca562e5a791",
-    "renderer/main_window/assets/tile-CGMwG5ry.js": "05492e527bcee12ba7885052fbc54c6996196e7373334fc37c1d768c1ca43a40"
+    "renderer/main_window/assets/roomPicker-CeuinC01.js": "d3c534670f953345a5826141b815c54d97d8aad87936e7730705ab0a9bf4bf28",
+    "renderer/main_window/assets/roomRole-C-yrJsbW.js": "e714a1b0de935d58f7924549bf769429a129148891c7a7a416d800f717c95eaa",
+    "renderer/main_window/assets/tile-DC8ONHqw.js": "fdc6f6c1b61965cc69f3e7cd20a3a6eb16e1196df2dc97458d5ab04d7e6fc107",
+    "renderer/main_window/assets/tile-Dsl06Zzv.css": "b8cc3973dc8fe06c5b2a14f92309a4ebec8df46f20dc799a3c245efbd5f623c1"
   }
 }
