@@ -1,18 +1,21 @@
 {
-  "mainSha": "0fb54b3528bbcc332ef13a716fe1ff38f1fc85d4",
-  "builtAt": 1791223241305,
+  "mainSha": "195e30e6993f63c5b1852b8be388c83a15f8e015",
+  "builtAt": 1791513135882,
   "minShell": 1,
   "files": {
-    "build/index.cjs": "ae83cb4fa7846ecb11e0bd8abd5451fa46ea97bab8ab4e3e02027b1aa93455d8",
+    "build/index.cjs": "9f672d6009a2d76323a9a19e358a6d68034d2816079fdd87553f17e8250dc974",
     "build/preload.cjs": "8395a100668c4e2c60e41c78207e5c41ca76c6250753e0b37fc81a18fa82bed0",
     "renderer/main_window/apple-touch-icon.png": "b97aa20b6ebc15fb799689cb4c95fb1e73bd49e40c143e9e8dccc6115653991a",
-    "renderer/main_window/index.html": "c23af51e1e79b5741e6b5097ed8c29648f29a1a61d65103f13c052eb4e0a1fbf",
-    "renderer/main_window/phone.html": "6c8ead7203b55c316434194a7ad0e856fac861182d3aa53a811864e4884a1099",
-    "renderer/main_window/assets/main-Bt4I2-FF.js": "b58e65f25fff7f0d9d92a65c8cc87eed29dae324aa4dfb34393068db9723a5cb",
+    "renderer/main_window/index.html": "04362e3b9f03ee09f1295b7e3b98feca9d49bc160b98f762c3f529857dfab262",
+    "renderer/main_window/phone.html": "ba4f1f65213f564358afba10eaa0820af6a6512e2d06b8a8f2eaf55ccd6f635c",
+    "renderer/main_window/assets/enroll-tBYnpCGr.js": "368004a8ce345e656df9abfad58b9c658558598bbc8533b08774954434a3995a",
+    "renderer/main_window/assets/main-DjEfGcxt.js": "f47cdba170df732963d3bed139aa29958ab1ab6ae39ad6c738e63bf0b7ea8148",
+    "renderer/main_window/assets/nativeLink-QgmYKDyV.js": "df4077b0bdcb7a821fef875f292a98e79d3f4e58d39aa32071c53ad7b75470d3",
     "renderer/main_window/assets/pcmSource.worklet-C6C9r5xa.js": "de8d291a6a178d4ca4d11b84cc3284fef0aa24af989ddd24f94b355c22e5f179",
-    "renderer/main_window/assets/phone-DcojIF6S.js": "5a379ce8af777691e47e8c7879a0e4bdc087c15176405eb0fdd20d1426df55d7",
+    "renderer/main_window/assets/phone-BS-1z4qt.js": "4bcb53db8a6c1e90bd3ee26e15ca4bb23407e9891c4c6c2bc47653bf0fe2ec9d",
     "renderer/main_window/assets/phone-Vp-akNRY.css": "2b88dd5d07be1efa7c51ec215a8ba725d7ef1f196f51909601c5b5a5a002908e",
+    "renderer/main_window/assets/roomRole-3my9HWRR.js": "048c4df89f5237d7e6e8a8e36db12a356132b47ea3a618c9939185706f1ff2f9",
     "renderer/main_window/assets/tile-Bq6nTq0b.css": "bc5cb8abd9732d5df871876ab91a2237dc8d1ced8202e258efa24ca562e5a791",
-    "renderer/main_window/assets/tile-CBS8e8fD.js": "370435796a79c7bee0022d6bad71f5acb39a43bdd5d7c5d1d747de05366613ff"
+    "renderer/main_window/assets/tile-CGMwG5ry.js": "05492e527bcee12ba7885052fbc54c6996196e7373334fc37c1d768c1ca43a40"
   }
 }
